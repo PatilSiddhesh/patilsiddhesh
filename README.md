@@ -7,7 +7,7 @@
 - Works on Paytm's consumer and business apps
 - Loves Android & Kotlin
 - Organizes Kotlin Mumbai, Google community lead
-- Know More at ![Siddroid.com](https://siddroid.com)
+- Know More at <a href="https://siddroid.com">Siddroid.com</a>
 
 
 <br/>
