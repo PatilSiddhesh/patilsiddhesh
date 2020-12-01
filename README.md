@@ -1,4 +1,4 @@
-### Hey there I'm Siddhesh 👋
+## Hey there I'm Siddhesh 👋
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -10,11 +10,4 @@
 - Know More at <a href="https://siddroid.com">Siddroid.com</a>
 
 
-<br/>
 
-<a href="https://github.com/patilsiddhesh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patilsiddhesh&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilsiddhesh&theme=buefy&layout=compact" />
-</a>
-
-<br/>
