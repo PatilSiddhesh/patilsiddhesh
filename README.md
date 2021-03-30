@@ -4,10 +4,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - Android Engineer at Paytm Insider
-- Works on Paytm's consumer and business apps
-- Loves Android & Kotlin
-- Organizes Kotlin Mumbai, Google community lead
-- Know More at <a href="https://siddroid.com">Siddroid.com</a>
+- Currently developing Paytm & Paytm for business
+- I mostly code in Kotlin for Android
+- Organizing meetups at Kotlin Mumbai, 
+- Helping others learn app development at <a href="https://siddroid.com">siddroid.com</a>
 
 
 
