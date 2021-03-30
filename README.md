@@ -6,7 +6,7 @@
 - Android Engineer at Paytm Insider
 - Currently developing Paytm & Paytm for business
 - I mostly code in Kotlin for Android
-- Organizing meetups at Kotlin Mumbai, 
+- Organizing meetups at Kotlin Mumbai 
 - Helping others learn app development at <a href="https://siddroid.com">siddroid.com</a>
 
 
