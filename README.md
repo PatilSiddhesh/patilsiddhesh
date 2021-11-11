@@ -1,12 +1,11 @@
-## Hey there I'm Siddhesh 👋
+## Hey there I'm Sid 👋
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- Android Engineer at Paytm Insider
-- Currently developing Paytm & Paytm for business
-- I mostly code in Kotlin for Android
-- Organizing meetups at Kotlin Mumbai 
+- Android Engineer at Delivery Hero
+- Previously built Paytm's chat-based payment flows
+- Organizes meetups at Kotlin Mumbai & Android Worldwide
 - Helping others learn app development at <a href="https://siddroid.com">siddroid.com</a>
 
 
